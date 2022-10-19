@@ -1,1 +1,1 @@
-worker: python dashboard.py
+web: gunicorn dashboard.wsgi 
