@@ -1,6 +1,7 @@
 
 import hmac
 import tkinter as TK
+import _tkinter
 from pydoc import classname
 from turtle import width
 from cv2 import sort
